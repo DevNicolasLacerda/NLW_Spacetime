@@ -116,11 +116,11 @@ Criar conta e configurar os serviços externos:
 
 ```bash
 # Execute o comando git clone para realizar o clone do repositório
-$ git clone https://github.com/mgkclaed/nlw12-spacetime.git
+$ git clone https://github.com/DevNicolasLacerda/nlwspacetime_ignite.git
 # ou execute (necessário instalar Github CLI - https://cli.github.com/)
-$ gh repo clone mgckaled/nlw12-spacetime
+$ gh repo clone DevNicolasLacerda/nlwspacetime_ignite
 # Entre na pasta do repositório clonado
-$ cd nlw12-spacetime
+$ cd nlwspacetime_ignite
 ```
 
 ### Comandos importantes
